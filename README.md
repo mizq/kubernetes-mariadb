@@ -1,2 +1,4 @@
 # kubernetes-mariadb
-Curso Iñigo Serrano
+Curso: Kubernetes sencillo para desarrolladores
+Autor: Iñigo Serrano
+Plataforma: UDEMY
